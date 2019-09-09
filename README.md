@@ -1,2 +1,2 @@
 # 03-text-adventure
-A text adventure name
+A text adventure game
